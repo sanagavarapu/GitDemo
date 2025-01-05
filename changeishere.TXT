@@ -1,2 +1,4 @@
 Hello this is start text
 2nd line added LOCAL
+
+added this after clone to X
